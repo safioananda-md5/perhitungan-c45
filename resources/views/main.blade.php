@@ -106,9 +106,9 @@
                     <th rowspan="2">Information Gain</th>
                 </tr>
                 <tr>
-                    <th>10</th>
-                    <th>5</th>
-                    <th>5</th>
+                    <th>{{ $countkepuasan1 }}</th>
+                    <th>{{ $countPuas1 }}</th>
+                    <th>{{ $countTidakPuas1 }}</th>
                 </tr>
             </thead>
             <tbody>
